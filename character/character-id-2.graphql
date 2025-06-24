@@ -1,5 +1,5 @@
 query {
   character(id:"2"){
-    name
-  }  
+    id, name, status, species, type, gender
+  }
 }
